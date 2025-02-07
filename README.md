@@ -24,4 +24,6 @@ A **modern and responsive** Blog Website built using **React.js (frontend)** and
 - **Backend:** Node.js, Express.js, MongoDB
 
 
-
+<img src="./Visily-Export_07-02-2025_11-24/Add Blog.jpg">
+<img src="./Visily-Export_07-02-2025_11-24/Blog Detail.jpg">
+<img src="./Visily-Export_07-02-2025_11-24/Homepage.jpg">
